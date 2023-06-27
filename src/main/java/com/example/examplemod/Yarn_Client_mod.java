@@ -10,9 +10,9 @@ import org.apache.logging.log4j.Logger;
 @Mod(modid = Yarn_Client_mod.MODID, name = Yarn_Client_mod.NAME, version = Yarn_Client_mod.VERSION)
 public class Yarn_Client_mod
 {
-    public static final String MODID = "examplemod";
-    public static final String NAME = "Example Mod";
-    public static final String VERSION = "1.0";
+    public static final String MODID = "Yarn_Client_mod";
+    public static final String NAME = "Yarn Client";
+    public static final String VERSION = "0.01";
 
     private static Logger logger;
 
